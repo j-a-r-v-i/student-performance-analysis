@@ -214,6 +214,7 @@ plt.ylabel('Percentage of Student Counts ', fontsize=16)
 plt.xlabel('Final Grade', fontsize=16)
 plt.show()
 #so high school romance leads to decline in performance of students
+#beware of that
 
 '''X = stu.iloc[:, :-2].values
 y = stu.iloc[:, -1].values

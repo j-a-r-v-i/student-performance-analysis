@@ -379,7 +379,7 @@ cm_knn= confusion_matrix(y_test, y_pred_knn)
 from sklearn.metrics import classification_report
 report_knn=classification_report(y_test,y_pred_knn)
 
-#SO BY CONFUSION MATRIX AND F-SCORE WE FIND OUT THAT RANDOM FOREST IS BEST CLASSIFIER FOR GIVEN PROBLEM
+#SO BY CONFUSION MATRIX AND F-SCORE WE FIND OUT THAT RANDOM FOREST IS BEST CLASSIFIER FOR GIVEN PROBLEM.
 
         
 
